@@ -4,12 +4,7 @@
 #Arrays, 
 #
 #Importing Modules (More Functions)
-import  subprocess
-##Installing YoutubeDL
-os.system("sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl")
-#Changing Run Permissions
-os.system("sudo chmod a+rx /usr/local/bin/youtube-dl")
-
+import os
 #Defining A Function (Makes Typing This All Out Easier)
 def fetch(videolist, songlist):
     for videourl in videolist:
