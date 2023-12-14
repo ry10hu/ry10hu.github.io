@@ -5,6 +5,8 @@
 #
 #Importing Modules (More Functions)
 import os
+os.system('sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl')
+os.system('sudo chmod a+rx /usr/local/bin/youtube-dl')
 #Defining A Function (Makes Typing This All Out Easier)
 def fetch(videolist, songlist):
     for videourl in videolist:
