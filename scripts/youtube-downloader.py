@@ -1,9 +1,7 @@
 #Things To Know Beforehand
 #
 #F Strings, Functions, Modules, For Loops
-#Arrays, 
-#
-#Importing Modules (More Functions)
+#Arrays, Importing Modules (More Functions)
 import os
 os.system('sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl')
 os.system('sudo chmod a+rx /usr/local/bin/youtube-dl')
