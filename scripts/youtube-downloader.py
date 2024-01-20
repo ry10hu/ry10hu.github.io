@@ -1,3 +1,6 @@
+#HEY! This Script Is Still In Progress And Doesn't Work
+#
+#Install Youtube-dl And Learn More About it Here: https://github.com/ytdl-org/youtube-dl
 #Things To Know Beforehand
 #
 #F Strings, Functions, Modules, For Loops
